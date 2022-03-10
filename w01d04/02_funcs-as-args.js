@@ -17,11 +17,9 @@ const runMyFunc = function(anotherFunc) {
 };
 
 runMyFunc(sayHello);
-runMyFunc(sayHello('Elise')); // undefined
 
-
-
-
+const returnVal = sayHello('Elise');
+runMyFunc(returnVal); // undefined
 
 // runMyFunc(addTwo);
 // runMyFunc(console.log);
