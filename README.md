@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Isaiah's Notes
 
 # This is an H1 header (largest)
@@ -12,3 +13,8 @@ This repository contains all of the notes taken by [Isaiah](https://www.lighthou
 
 - [Week 1](/Week_1)
   - [Day 1](/Week_1/Day_1/)
+=======
+# Table of Contents
+
+* [W01D04 - Callbacks!](/w01d04)
+>>>>>>> firsttest/master
